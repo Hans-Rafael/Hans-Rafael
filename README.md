@@ -1,4 +1,4 @@
-## ![](https://www.canva.com/design/DAFICcpkTqA/Yc5TmqeNLRuuzLkuQ5X2mA/watch?utm_content=DAFICcpkTqA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelinkn) 
+![](https://www.canva.com/design/DAFICcpkTqA/Yc5TmqeNLRuuzLkuQ5X2mA/watch?utm_content=DAFICcpkTqA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelinkn) 
 # <h1 align="center">Hi 👋, I'm Hans Rafael Garcia</h1>
  A litle more about mi self. 👀<br>
  I am a Full Stack Developer with the ability to carry out projects as a team or individually, with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, SQL databases, Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation, Interested to grow every day as a person.<br><br>
