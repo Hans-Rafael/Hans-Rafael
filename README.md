@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Hans-Rafael
+# 👋 Hi, I’m @Hans-Rafael
+
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I am a Full Stack Developer with the ability to carry out projects as a team or individually, with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, SQL databases, Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation, Interested to grow every day as a person
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , By hansvekoni@gmail.com
 
