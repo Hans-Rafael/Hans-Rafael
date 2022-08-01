@@ -5,7 +5,12 @@
  </div>
 <h3 align="left">
  A litle more about mi self. 👀<br>
- I am a Full Stack Developer with the ability to carry out projects as a team or individually, with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, SQL databases, Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation, Interested to grow every day as a person.
+<ul> <li>I am a Full Stack Developer with the ability to carry out projects as a team or individually</li>
+<li> with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, SQL databases.</li>
+<li> Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation.</li>
+<li> Interested to grow every day as a person.
+</li>
+</ul>
  </h3>
  <p align="Center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hans-rafael&show_icons=true&locale=en&layout=compact" alt="hans-rafael" /></p>
