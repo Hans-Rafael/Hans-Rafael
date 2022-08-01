@@ -8,7 +8,7 @@
  I am a Full Stack Developer with the ability to carry out projects as a team or individually, with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, SQL databases, Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation, Interested to grow every day as a person.
  </h3>
  <p align="Center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hans-rafael&show_icons=true&locale=en&layout=compact" alt="hans-rafael" /></p>
  </p>
 
 - 📫 How to reach me, By **hansvekoni@gmail.com**
