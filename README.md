@@ -3,10 +3,10 @@
 <div align="center">
  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nan1en3v6vvjkell7ggfxy9rcxiocesowx535rix&rid=giphy.gif&ct=g"/>
  </div>
-<p align="left">
+<h3 align="left">
  A litle more about mi self. 👀<br>
  I am a Full Stack Developer with the ability to carry out projects as a team or individually, with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, SQL databases, Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation, Interested to grow every day as a person.
- </p>
+ </h3>
  <p align="Center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
  </p>
