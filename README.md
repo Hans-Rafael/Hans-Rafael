@@ -40,7 +40,7 @@
 ---
 ###
 Some of my recent projects are: <br>
-<h3>
+
 - e-commerce as a team project, whit emphasis on the back-end,
 responsible for route authentication, security password, recovery password, check-out payment (Stripe) here is a link to visit it.<br>
 <a href="https://sport-shop-client.vercel.app"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> </a>
@@ -51,7 +51,6 @@ responsible for route authentication, security password, recovery password, chec
 - Single page app about the weather  for city. <br>
 <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Clima%20APP.gif" alt="Wheather app"/>
 
-</h3>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hansvekoniU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansvekoniU" /></a>
