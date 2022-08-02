@@ -40,7 +40,9 @@
 ---
 ## 
 Some of my recent projects are: <br>
-
+a ecommerce as team project, whit enfacis in the back-end where 
+responsable for route authentication, security password, recovery password, check-out payment (Stripe) here is a link to visit it.
+<a href="https://sport-shop-client.vercel.app"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> </a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hansvekoniU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansvekoniU" /></a>
