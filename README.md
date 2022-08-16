@@ -39,7 +39,7 @@
 
 ---
 ###
-<b>Some of my recent projects are:</b> <br>
+<h3><b>Some of my recent projects are:</b></h3> <br>
 
 - e-commerce as a team project, whit emphasis on the back-end,
 responsible for route authentication, security password, recovery password, check-out payment (Stripe) here is a link to visit it.<br>
