@@ -10,6 +10,12 @@
 <li> Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation.</li>
 <li> Interested to grow every day as a person.
 </li>
+<li>
+💻Some of my last projects are available at <a href="https://hans-rafael.github.io/"/>https://hans-rafael.github.io</a>
+</li>
+<li>
+💼can follow me on <a href="linkedin.com/in/hans-garcia-developer/">linkedin.com/in/hans-garcia-developer</a>
+</li>
 </ul>
  </h3>
  <p align="Center">
