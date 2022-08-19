@@ -32,7 +32,7 @@
 
 #
 -  <h3> 📫 How to reach me, By </h3> 
-<b> hansvekoni@gmail.com </b>
+<b align="Center"> hansvekoni@gmail.com </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="Center"> 💎
