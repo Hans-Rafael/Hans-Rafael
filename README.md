@@ -60,7 +60,7 @@ responsible for route authentication, security password, recovery password, chec
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hansvekoniU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansvekoniU" /></a>
-<a href="https://link.mercadopago.com.ar/hans1"> <img align="left" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/RegCof.png" height="60" width="210" alt="hansvekoniU" /></a></p><br><br>
+<a href="https://link.mercadopago.com.ar/hans1"> <img align="left" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/RegCof.png" height="60" width="230" alt="hansvekoniU" /></a></p><br><br>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hans-garcia-developer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/hans-garcia-developer?trk=profile-badge">Hans Garcia</a></div>
               <br>
 <!---
