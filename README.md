@@ -60,7 +60,9 @@ responsible for route authentication, security password, recovery password, chec
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hansvekoniU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansvekoniU" /></a>
-<a href="https://link.mercadopago.com.ar/hans1"> <img align="left" src="https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/91590329_1841856615945385_6022215602704220160_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9267fe&_nc_ohc=uYrUgwXCrocAX_6jiY8&_nc_ht=scontent.faep7-1.fna&oh=00_AT-zSQZQqiXEZDQyeu6D8NJJL13U-gLeQydbQBo3BpEJhA&oe=630B5585" height="60" width="210" alt="hansvekoniU" /></a></p><br><br>
+<a href="https://link.mercadopago.com.ar/hans1"> <img align="left" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/RegCof.png" height="60" width="210" alt="hansvekoniU" /></a></p><br><br>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hans-garcia-developer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/hans-garcia-developer?trk=profile-badge">Hans Garcia</a></div>
+              <br>
 <!---
 Hans-Rafael/Hans-Rafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
