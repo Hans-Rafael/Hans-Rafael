@@ -48,8 +48,8 @@
 <h3><b>Some of my recent projects are:</b></h3> <br>
 
 - e-commerce as a team project, whit emphasis on the back-end,
-responsible for route authentication, security password, recovery password, check-out payment (Stripe) here is a link to visit it.<br>
-<a href="https://sport-shop-client.vercel.app"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> </a>
+responsible for route authentication, security password, recovery password, check-out payment (Stripe) here is a link to a short video.<br>
+<a href="https://www.youtube.com/watch?v=eQ-MdQsoIGs"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> </a>
 <br>
 - project individual about dogs, here is a link to visit it <br>
 <a href="https://pi-dogs-hans-rafael.vercel.app/"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Henry%20dogs.gif" alt="Henry's Dogs"/> </a>
