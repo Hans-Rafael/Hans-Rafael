@@ -45,14 +45,14 @@
 
 ---
 ###
-<h3><b>Some of my recent projects are:</b></h3> <br>
+<h3><b>Some of my projects are:</b></h3> <br>
 
 - e-commerce as a team project, whit emphasis on the back-end,
 responsible for route authentication, security password, recovery password, check-out payment (Stripe) here is a link to a short video.<br>
 <a href="https://www.youtube.com/watch?v=eQ-MdQsoIGs"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> </a>
 <br>
 - project individual about dogs, here is a link to visit it <br>
-<a href="https://https://dogs-backfront.vercel.app/"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Henry%20dogs.gif" alt="Henry's Dogs"/> </a>
+<a href="https://dogs-backfront.vercel.app/"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Henry%20dogs.gif" alt="Henry's Dogs"/> </a>
 <br>
 - Single page app about the weather  for city. <br>
 <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Clima%20APP.gif" alt="Wheather app"/>
