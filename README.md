@@ -25,7 +25,7 @@
 <p>
     <p> <img alt="ES" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/img/spain.jpg" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-spain_1f1ea-1f1f8.png" style="max-width:100%;"> Spanish
     </p>
-    <p> <img src="https://camo.githubusercontent.com/1e71db79954d93a6156efdb3f40269cab34b4a12450a5ca15c0ee3dd4904613e/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f747769747465722f3235392f666c61672d756e697465642d6b696e67646f6d5f31663165632d31663165372e706e67" alt="UK" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" style="max-width:100%;"> English
+    <p> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/img/uk.png" alt="UK" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" style="max-width:100%;"> English
     </p>
   
 </p>
