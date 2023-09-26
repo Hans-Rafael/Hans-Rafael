@@ -22,10 +22,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hans-rafael&show_icons=true&locale=en&layout=compact" alt="hans-rafael" /></p>
  </p>
  🎭 I'm fluent in...
-<p>
-    <p> <img alt="ES" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/img/spain-3d.jpg" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-spain_1f1ea-1f1f8.png" style="max-width:100%;"> Spanish
+<p  align="Center">
+    <p> <img alt="ES" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/img/spain-3d.jpg" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-spain_1f1ea-1f1f8.png" > Spanish
     </p>
-    <p> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/img/uk.png" alt="UK" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" style="max-width:100%;"> English
+    <p> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/img/uk.png" alt="UK" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" > English
     </p>
   
 </p>
