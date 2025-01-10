@@ -1,5 +1,4 @@
 ![Hi I´m Hans](https://github.com/Hans-Rafael/Hans-Rafael/blob/main/LinkedIn-Banner-7seg-gif.gif) 
-# <h1 align="center">Hi 👋, I'm Hans Rafael Garcia</h1>
 <div align="center">
  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nan1en3v6vvjkell7ggfxy9rcxiocesowx535rix&rid=giphy.gif&ct=g"/>
  </div>
@@ -11,7 +10,7 @@
 <li> Interested to grow every day as a person.
 </li>
 <li>
-💻Some of my last projects are available at <a href="https://hans-rafael.github.io/"/>https://hans-rafael.github.io</a>
+💻Some of my last projects are available at <a href="https://github.com/Hans-Rafael?tab=repositories"/> My Repositories </a> and <a href="https://hans-rafael.github.io/"/>https://hans-rafael.github.io</a>
 </li>
 <li>
 💼 Follow me on <a href="linkedin.com/in/hans-garcia-developer/">linkedin.com/in/hans-garcia-developer</a>
@@ -44,18 +43,6 @@
 <p align="left"> Babel. <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>Bootstrap. <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> CSS. <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>Expressjs <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>Google Clouds. <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> Git. <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> html5.<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>javascript. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>Jest. <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>MySQL <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>NodeJS <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>Postgresql <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>Postman. <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>React <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>React native<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>Redux <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>Sass <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>Typescript <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ---
-###
-<h3><b>Some of my projects are:</b></h3> <br>
-
-- e-commerce as a team project, whit emphasis on the back-end,
-responsible for route authentication, security password, recovery password, check-out payment (Stripe) here is a link to a short video.<br>
-<a href="https://www.youtube.com/watch?v=eQ-MdQsoIGs"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> </a>
-<br>
-- project individual about dogs, here is a link to visit it <br>
-<a href="https://github.com/Hans-Rafael/PI-Dogs"> <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Henry%20dogs.gif" alt="Henry's Dogs"/> </a>
-<br>
-- Single page app about the weather  for city. <br>
-<a href='https://github.com/Hans-Rafael/weather'><img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Clima%20APP.gif" alt="Wheather app"/></a>
 
 
 <h3 align="left">Support:</h3>
