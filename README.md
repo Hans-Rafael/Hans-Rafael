@@ -93,3 +93,18 @@ Mi portafolio demuestra experiencia práctica en procesos, más allá del códig
 ---
 
 <p align="center">Construido y testeado con ❤️ por Hans Garcia</p>
+
+---
+
+<h3 align="left">🤝 Apoya mi trabajo:</h3>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/hansvekoniU"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Invítame un café" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://link.mercadopago.com.ar/hans1"> 
+     <img align="left" src="./assets/RegCof.png" height="50" width="210" alt="Regálame un café - Argentina" />
+  </a>
+</p>
+<br><br>
