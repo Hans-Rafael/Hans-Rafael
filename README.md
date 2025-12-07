@@ -1,58 +1,95 @@
-![Hi I´m Hans](https://github.com/Hans-Rafael/Hans-Rafael/blob/main/LinkedIn-Banner-7seg-gif.gif) 
 <div align="center">
- <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nan1en3v6vvjkell7ggfxy9rcxiocesowx535rix&rid=giphy.gif&ct=g"/>
- </div>
-<h3 align="left">
- A litle more about mi self. 👀<br>
-<ul> <li>I am a Full Stack Developer with the ability to carry out projects as a team or individually</li>
-<li> with training in HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, SQL databases.</li>
-<li> Stripes as Payment Processing Platform for the Internet, email & chat-boot implementation.</li>
-<li> Interested to grow every day as a person.
-</li>
-<li>
-💻Some of my last projects are available at <a href="https://github.com/Hans-Rafael?tab=repositories"/> My Repositories </a> and <a href="https://hans-rafael.github.io/"/>https://hans-rafael.github.io</a>
-</li>
-<li>
-💼 Follow me on <a href="linkedin.com/in/hans-garcia-developer/">linkedin.com/in/hans-garcia-developer</a>
-</li>
-</ul>
- </h3>
- <p align="Center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hans-rafael&show_icons=true&locale=en&layout=compact" alt="hans-rafael" /></p>
- </p>
- 
- 🎭 I'm fluent in...
-<p  align="Left">
-</br>
-     <img alt="UK" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/assets/uk.png" height="25" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" > English
-     <img alt="ES" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/assets/icons-spain.png" height="25" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-spain_1f1ea-1f1f8.png" > Spanish
-   
-</p>
+  <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/LinkedIn-Banner-7seg-gif.gif" alt="Hi I´m Hans Banner" width="100%">
+  
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nan1en3v6vvjkell7ggfxy9rcxiocesowx535rix&rid=giphy.gif&ct=g" alt="Coding GIF" width="400"/>
+</div>
 
-#
-- ###  📫 How to reach me, By <b>hansvekoni@gmail.com </b>
+# 👋 ¡Hola! Soy Hans Garcia
 
-<h3 align="left">Connect with me:</h3>
-<p align="Center"> 💎
-<a href="https://linkedin.com/in/hans-garcia-6550421b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hans-garcia-6550421b1" height="30" width="40" /></a> 💎
-</p>
+### Desarrollador Full Stack, UX/UI Designer y QA Tester
 
-#
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hans-developer)
+[![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=flat-square&logo=google-chrome)](https://hans-rafael.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:hansvekoni@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> Babel. <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>Bootstrap. <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> CSS. <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>Expressjs <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>Google Clouds. <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> Git. <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> html5.<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>javascript. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>Jest. <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>MySQL <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>NodeJS <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>Postgresql <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>Postman. <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>React <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>React native<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>Redux <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>Sass <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>Typescript <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </a> HardHat <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="HardHat" width="80" height="40"/> 
-</a> Docker <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" width="60" height="80"/>
-</a> Solidity <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="60" height="80"/>
+---
+
+## 👨‍💻 Sobre mí
+
+**¡Bienvenido a mi Portafolio!**
+
+Soy un **profesional híbrido** con experiencia en el desarrollo completo de aplicaciones. Mi expertise se centra en el **PERN Stack (PostgreSQL, Express, React, Node)**, con solidez comprobada también en **MERN Stack** y arquitecturas **Blockchain**, con especialización en el ecosistema **Ethereum** (Solidity/EVM).
+
+Mi sólida base como Full Stack me permite enfocarme en un **QA** más profundo, identificando no solo la manifestación del error, sino también la **causa raíz** a nivel de código y arquitectura. Me apasiona construir soluciones robustas, eficientes y con un diseño **UX/UI** funcional.
+
+* 🎯 **Enfoque actual:** Profundizando en la arquitectura **PERN**, desarrollo de **Smart Contracts en Ethereum** y QA Automation.
+* 🚀 **Objetivo:** Continuar construyendo soluciones end-to-end con alta calidad y eficiencia.
+
+---
+
+## 🛠️ Mi Stack & Expertise
+
+Aquí se muestran las tecnologías con las que trabajo, organizadas por dominio.
+
+### Front-end, Back-end & Mobile
+* **Lenguajes:** JavaScript, TypeScript, Solidity
+* **Frameworks/Libs:** React, React Native, Redux, Express.js, Node.js
+* **Estilo/Diseño:** CSS3, SASS, Bootstrap, UX/UI Design
+
+### Calidad & Testing (QA)
+| Área | Herramientas / Prácticas |
+| :--- | :--- |
+| **Gestión** | Jira (Defectos), Zephyr Scale (Casos), Trello |
+| **Testing Manual** | Pruebas Funcionales, No Funcionales, Testing de APIs (Postman) |
+| **Metodología** | Scrum (Metodología Ágil), Desglose Ágil de Requerimientos (Storytelling) |
+
+---
+
+## 🏗️ Experiencia en Arquitectura y Colaboración
+
+Mi portafolio demuestra experiencia práctica en procesos, más allá del código:
+
+* **Arquitecturas Modernas:** Implementación de sistemas de **Microservicios** y despliegue utilizando **Docker** para asegurar la portabilidad y escalabilidad.
+* **Desarrollo Colaborativo:** Dominio de metodologías **Scrum** y *workflow* avanzado de **Git** en la creación de proyectos complejos en equipo (ej. E-commerce).
+* **Desarrollo Descentralizado (Web3):** Construcción de **DApps** especializadas en el ecosistema **Ethereum**, incluyendo lógica compleja de **Yield Farming (Staking/Recompensas)**.
+* **Movilidad:** Desarrollo de aplicaciones nativas con **React Native**.
+
+---
+
+## 📂 Portafolio de Proyectos y Enlaces
+
+| Categoría | Enlace |
+| :--- | :--- |
+| **Portafolio Web (General)** | [hans-rafael.github.io](https://hans-rafael.github.io/) |
+| **Portafolio UX/UI (Diseño)** | [Ver Proyectos en Behance](https://www.behance.net/hans_garcia) |
+| **Repositorios GitHub** | [Ver todos mis Proyectos](https://github.com/Hans-Rafael?tab=repositories) |
+| **Portafolio QA (Especializado)** | [Ir al Repositorio de Proyectos QA](https://github.com/Hans-Rafael/[TU_REPOSITORIO_QA]) |
+
+<br>
+
+### 💻 Herramientas y Tecnologías
+<p align="left">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> React
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> NodeJS
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Expressjs" width="40" height="40"/> Express.js
+  
+  <br><br>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> MySQL
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> Git
+  
+  <br><br>
+
+  <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="40" height="40"/> Solidity
+  <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="HardHat" width="60" height="40"/> HardHat
+  <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" width="40" height="40"/> Docker
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> Postman
 </p>
 
 ---
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hansvekoniU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansvekoniU" /></a>
-<a href="https://link.mercadopago.com.ar/hans1"> <img align="left" src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/RegCof.png" height="60" width="230" alt="hansvekoniU" /></a></p><br><br>
-
-<!---
-Hans-Rafael/Hans-Rafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">Construido y testeado con ❤️ por Hans Garcia</p>
