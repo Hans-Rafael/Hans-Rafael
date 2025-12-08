@@ -34,7 +34,8 @@ Aquí se muestran las tecnologías con las que trabajo, organizadas por dominio.
 ### Front-end, Back-end & Mobile
 * **Lenguajes:** JavaScript, TypeScript, Solidity
 * **Frameworks/Libs:** React, React Native, Redux, Express.js, Node.js, Babel
-* **Estilo/Diseño:** CSS3, SASS, Bootstrap, UX/UI Design
+* **Estilo/Diseño:** CSS3, SASS, Bootstrap, Figma, UX/UI Design
+* **Bases de Datos:** PostgreSQL, MySQL, MongoDB
 
 ### Calidad & Testing (QA)
 | Área | Herramientas / Prácticas |
@@ -42,6 +43,7 @@ Aquí se muestran las tecnologías con las que trabajo, organizadas por dominio.
 | **Gestión** | Jira (Defectos), Zephyr Scale (Casos), Trello |
 | **Testing Manual** | Pruebas Funcionales, No Funcionales, Testing de APIs (Postman) |
 | **Metodología** | Scrum (Metodología Ágil), Desglose Ágil de Requerimientos (Storytelling) |
+| **Diseño** | Figma (Prototipos y Wireframes) |
 
 ---
 
@@ -81,8 +83,10 @@ Mi portafolio demuestra experiencia práctica en procesos, más allá del códig
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> MySQL
+  <img src="./assets/mongodb-logo-.png" alt="MongoDB" width="40" height="40"/> MongoDB
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> Git
   <img src="./assets/bootstrap-logo.png" alt="Bootstrap" width="40" height="40"/> Bootstrap
+  <img src="./assets/figma-768.png" alt="Figma" width="40" height="40"/> Figma
   
   <br><br>
 
@@ -90,6 +94,7 @@ Mi portafolio demuestra experiencia práctica en procesos, más allá del códig
   <img src="./assets/hardhat-logo.svg" alt="HardHat" width="80" height="80"/> HardHat
   <img src="./assets/Docker_log.png" alt="Docker" width="40" height="40"/> Docker
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> Postman
+  <img src="./assets/Jira-scrum.png" alt="Jira" width="40" height="40"/> Jira
 </p>
 
 ---
