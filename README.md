@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hans-developer)
 [![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=flat-square&logo=google-chrome)](https://hans-rafael.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:hansvekoni@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:contact@hans-rafael.dev)
 
 ---
 
@@ -62,7 +62,7 @@ Mi portafolio demuestra experiencia práctica en procesos, más allá del códig
 
 | Categoría | Enlace |
 | :--- | :--- |
-| **Portafolio Web (General)** | [hans-rafael.github.io](https://hans-rafael.github.io/) |
+| **Portafolio Web (General)** | [Hans-Rafael](https://hans-rafael.dev/) |
 | **Portafolio UX/UI (Diseño)** | [Ver Proyectos en Behance](https://www.behance.net/hans_garcia) |
 | **Repositorios GitHub** | [Ver todos mis Proyectos](https://github.com/Hans-Rafael?tab=repositories) |
 | **Portafolio QA (Especializado)** | [Ir al Repositorio de Proyectos QA](https://github.com/Hans-Rafael/QA-Projects) |
