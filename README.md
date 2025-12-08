@@ -33,7 +33,7 @@ Aquí se muestran las tecnologías con las que trabajo, organizadas por dominio.
 
 ### Front-end, Back-end & Mobile
 * **Lenguajes:** JavaScript, TypeScript, Solidity
-* **Frameworks/Libs:** React, React Native, Redux, Express.js, Node.js
+* **Frameworks/Libs:** React, React Native, Redux, Express.js, Node.js, Babel
 * **Estilo/Diseño:** CSS3, SASS, Bootstrap, UX/UI Design
 
 ### Calidad & Testing (QA)
@@ -75,18 +75,20 @@ Mi portafolio demuestra experiencia práctica en procesos, más allá del códig
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> NodeJS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Expressjs" width="40" height="40"/> Express.js
+  <img src="./assets/babel.svg" alt="Babel" width="40" height="40"/> Babel
   
   <br><br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> MySQL
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> Git
+  <img src="./assets/bootstrap-logo.png" alt="Bootstrap" width="40" height="40"/> Bootstrap
   
   <br><br>
 
   <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="40" height="40"/> Solidity
-  <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="HardHat" width="40" height="40"/> HardHat
-  <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" width="40" height="40"/> Docker
+  <img src="./assets/hardhat-logo.svg" alt="HardHat" width="80" height="80"/> HardHat
+  <img src="./assets/Docker_log.png" alt="Docker" width="40" height="40"/> Docker
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> Postman
 </p>
 
