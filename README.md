@@ -9,7 +9,7 @@
 ### Desarrollador Full Stack, UX/UI Designer y QA Tester
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hans-developer)
-[![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=flat-square&logo=google-chrome)](https://hans-rafael.github.io)
+[![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=flat-square&logo=google-chrome)](https://hans-rafael.dev)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:contact@hans-rafael.dev)
 
 ---
