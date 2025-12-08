@@ -65,7 +65,7 @@ Mi portafolio demuestra experiencia práctica en procesos, más allá del códig
 | **Portafolio Web (General)** | [hans-rafael.github.io](https://hans-rafael.github.io/) |
 | **Portafolio UX/UI (Diseño)** | [Ver Proyectos en Behance](https://www.behance.net/hans_garcia) |
 | **Repositorios GitHub** | [Ver todos mis Proyectos](https://github.com/Hans-Rafael?tab=repositories) |
-| **Portafolio QA (Especializado)** | [Ir al Repositorio de Proyectos QA](https://github.com/Hans-Rafael/[TU_REPOSITORIO_QA]) |
+| **Portafolio QA (Especializado)** | [Ir al Repositorio de Proyectos QA](https://github.com/Hans-Rafael/QA-Projects) |
 
 <br>
 
