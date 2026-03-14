@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/LinkedIn-Banner-7seg-gif.gif" alt="Hi I´m Hans Banner" width="100%">
+  <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/linkedin.cominhans-developer.png" alt="Hi I´m Hans Banner" width="100%">
   
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nan1en3v6vvjkell7ggfxy9rcxiocesowx535rix&rid=giphy.gif&ct=g" alt="Coding GIF" width="400"/>
 </div>
