@@ -1,8 +1,8 @@
-
-  <a https://hans-rafael.dev >
+<div align="center">
+  <a href="https://hans-rafael.dev" target="_blank">
   <img src="banner2.png" width="100%">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nan1en3v6vvjkell7ggfxy9rcxiocesowx535rix&rid=giphy.gif&ct=g" alt="Coding GIF" width="400"/>
   <a>
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nan1en3v6vvjkell7ggfxy9rcxiocesowx535rix&rid=giphy.gif&ct=g" alt="Coding GIF" width="400"/>
 
 
 # 👋 ¡Hola! Soy Hans Garcia
@@ -13,7 +13,7 @@
 [![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=flat-square&logo=google-chrome)](https://hans-rafael.dev)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:contact@hans-rafael.dev)
 
----
+</div>
 
 ## 👨‍💻 Sobre mí
 
